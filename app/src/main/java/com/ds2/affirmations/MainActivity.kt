@@ -1,4 +1,4 @@
-package com.example.affirmations
+package com.ds2.affirmations
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.RecyclerView
